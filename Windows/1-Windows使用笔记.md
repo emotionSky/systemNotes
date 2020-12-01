@@ -1,4 +1,4 @@
-<center>Windows使用笔记</center>
+## Windows使用笔记
 ### 一、系统安装
 
 可去[MSDN](https://msdn.itellyou.cn/)网站下载`Windows10`，可以使用`Rufus`制作启动U盘安装，也可以直接覆盖安装。
