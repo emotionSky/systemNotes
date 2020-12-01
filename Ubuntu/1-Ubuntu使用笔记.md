@@ -1,4 +1,4 @@
-<center>Ubuntu使用笔记</center>
+## Ubuntu使用笔记
 ### 一、Ubuntu基础使用
 
 #### 1.1 普通X86架构下平台安装系统
